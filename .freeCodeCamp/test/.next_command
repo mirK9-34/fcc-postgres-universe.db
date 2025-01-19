@@ -41,3 +41,8 @@ git remote -v
 git remote set-url origin https://github.com/mirK9-34/fcc-postgres-universe.db.git
 git remote -v
 git add .
+git commit -m "init commit"
+git push -u origin main
+git push -u origin master
+git remote set-url origin git@github.com:mirK9-34/fcc-postgres-universe.db.git
+git add .
